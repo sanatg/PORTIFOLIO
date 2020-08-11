@@ -1,0 +1,175 @@
+.myportfolioheading {
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+    color: rgb(1, 94, 122);
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ }
+.discriptionaboutme {
+
+font-family: Arial,sans-serif, Helvetica;
+width:60%;
+}
+.aboutmeCss {
+font-family:  Verdana, Arial, Helvetica, sans-serif;
+font-size: larger;
+font-weight: 900;
+text-align: center;
+color: rgb(1,94,122);
+}
+.aboutmeCss2 {
+font-family:  Verdana, Arial, Helvetica, sans-serif;
+font-size: larger;
+font-weight: 900;
+
+color: rgb(1,94,122);
+}
+.madebyme {
+font-family:  Verdana, Arial, Helvetica, sans-serif;
+font-size: larger;
+font-weight: 900;
+padding-right: 300px;
+color:  #015E7A;
+}
+.gamedeveloper {
+font-family:  Verdana, Arial, Helvetica, sans-serif;
+font-size: 33px;
+font-weight: 900;
+text-align: center;
+color:  #015E7A;
+}
+.color1 {
+  background-color:#566D8F;
+  padding-top: 30px;
+  padding-bottom: 30px;
+ }
+ .color2 {
+  display : flex;
+  flex-direction:column;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color:#bbb;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: solid;
+  border-width: 3px;
+  border-radius: 20px;
+  padding-left: 100px;
+  width: 700px;
+ }
+ .myself{
+     display: flex;
+     background-color: #7df9ff;
+     border: solid #7df9ff;
+     border-radius: 25px;
+     flex-direction: row;
+     justify-content: center;
+     width: 500px;
+     margin-left: 600px;
+     background-image: linear-gradient(to top right,#7df9ff,#015E7A);
+
+ }
+.youtubepadding {
+ padding-right: 30px;
+}
+.sitename1 {
+color: #ffffff;
+padding-right: 80px;
+}
+.sitename2 {
+color: #ffffff;
+
+}
+.moreapps{
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 900;
+    color: rgb(1,94,122);
+}
+.colors {
+  display : flex;
+  flex-direction:column;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color:#bbb;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: solid;
+  border-width: 3px;
+  border-radius: 20px;
+  padding-left: 100px;
+  width: 700px;
+}
+.colorse{
+    background-color:#566D8F;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sitenames1 {
+    color: #ffffff;
+    padding-right: 80px;
+}
+.sitenames2 {
+    color: #ffffff;
+}
+.youtubepadding2 {
+ padding-right: 30px;
+}
+ .aboutmeCss3 {
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 900;
+
+    color: #015E7A;
+}
+.container {
+  position: relative;
+  width: 70%;
+}
+.container2 {
+  position: relative;
+  width: 70%;
+}
+.text {
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-family:  Verdana, Arial, Helvetica, sans-serif;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.container:hover .overlay {
+  opacity: 0.9;
+}
+.container2:hover .overlay2 {
+  opacity: 0.9;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #000000;
+}
+.overlay2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 95%;
+  width: 105%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #000000;
+}
